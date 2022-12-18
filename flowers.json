@@ -4,21 +4,276 @@ products: [
         id: 1,
         title: "Красная роза",
         description: "Роза насыщенного красного цвета с плотным продолговатым бутоном",
+        flower: "роза",
         price: 2,
         rating: 4.69,
         stock: 94,
+        size: 60,
         country: "Колумбия",
-        occasions: ["свидание", "юбилей", "8 марта", "выпускной"]
+        occasions: ["свидание", "юбилей", "8 марта", "выпускной"],
         category: "цветы",
-        thumbnail: "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+        color: "красный",
+        thumbnail: "https://github.com/AnastasiaSyt/Flowers/blob/main/1/flowers_1.jpg",
         images: [
-        "https://i.dummyjson.com/data/products/1/1.jpg",
-        "https://i.dummyjson.com/data/products/1/2.jpg",
-        "https://i.dummyjson.com/data/products/1/3.jpg",
-        "https://i.dummyjson.com/data/products/1/4.jpg",
-        "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/1/flowers_1_1.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/1/flowers_1_2.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/1/flowers_1_3.jpg"
         ]
     },
+    {
+        id: 2,
+        title: "Синяя роза",
+        description: "Необыкновенная синяя роза для самых исключительных случаев",
+        flower: "роза",
+        price: 4,
+        rating: 4.89,
+        stock: 62,
+        size: 80,
+        country: "Эквадор",
+        occasions: ["свидание", "юбилей", "8 марта", "выпускной", "день рождения"],
+        category: "цветы",
+        color: "синий",
+        thumbnail: "https://github.com/AnastasiaSyt/Flowers/blob/main/2/flowers_2.jpg",
+        images: [
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/2/flowers_2_1.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/2/flowers_2_2.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/2/flowers_2_3.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/2/flowers_2_4.jpg"
+        ]
+    },
+    {
+        id: 3,
+        title: "Роза нежно-розовая 'Джамилия'",
+        description: "Эти прекрасные нежно розовые розы, с прекрасным и ароматным бутоном – романтика, которая непременно подойдет для того чтобы порадовать любимого Вам человека",
+        flower: "роза",
+        price: 3,
+        rating: 4.44,
+        stock: 54,
+        size: 80,
+        country: "Беларусь",
+        occasions: ["свидание", "юбилей", "8 марта", "выпускной", "день рождения"],
+        category: "цветы",
+        color: "розовый",
+        thumbnail: "https://github.com/AnastasiaSyt/Flowers/blob/main/3/flowers_3.jpg",
+        images: [
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/3/flowers_3_1.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/3/flowers_3_2.jpg"
+        ]
+    },
+    {
+        id: 4,
+        title: "Светло-розовая гербера",
+        description: "Такой цветок подойдет для гармоничной личности",
+        flower: "гербера",
+        price: 3,
+        rating: 4.72,
+        stock: 9,
+        size: 50,
+        country: "Голландия",
+        occasions: ["свидание", "юбилей", "8 марта", "выпускной", "14 февраля"],
+        category: "цветы",
+        color: "розовый",
+        thumbnail: "https://github.com/AnastasiaSyt/Flowers/blob/main/4/flowers_4.jpg",
+        images: [
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/4/flowers_4_1.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/4/flowers_4_2.jpg"
+        ]
+    },
+    {
+        id: 5,
+        title: "Белый пион",
+        description: "Пион- символ любви, богатства и чести. В западной культуре пионы служат символом удачи, счастья и счастливого брака.",
+        flower: "пион",
+        price: 5,
+        rating: 4.92,
+        stock: 112,
+        size: 50,
+        country: "Голландия",
+        occasions: ["свидание", "юбилей", "8 марта", "выпускной", "свадьба", "14 февраля", "день рождения"],
+        category: "цветы",
+        color: "белый",
+        thumbnail: "https://github.com/AnastasiaSyt/Flowers/blob/main/5/flowers_5.jpg",
+        images: [
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/5/flowers_5_1.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/5/flowers_5_2.jpg"
+        ]
+    },
+    {
+        id: 6,
+        title: "Розовый пион",
+        description: "Пион – очень декоративное растение. Его ценят за роскошные цветы и красивые тройчатые листья. Еще издавна, описывая этот цветок, упоминали о его величественной красоте и тонком аромате.",
+        flower: "пион",
+        price: 7,
+        rating: 4.79,
+        stock: 12,
+        size: 50,
+        country: "Голландия",
+        occasions: ["выпускной", "свидание", "день рождения"],
+        category: "цветы",
+        color: "розовый",
+        thumbnail: "https://github.com/AnastasiaSyt/Flowers/blob/main/6/flowers_6.jpg",
+        images: [
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/6/flowers_6_1.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/6/flowers_6_2.jpg"
+        ]
+    },
+    {
+        id: 7,
+        title: "Тюльпан красный",
+        description: "Наши красные тюльпаны никого не оставят равнодушным",
+        flower: "тюльпан",
+        price: 2,
+        rating: 4.59,
+        stock: 34,
+        size: 30,
+        country: "Голландия",
+        occasions: ["свидание", "14 февраля", "8 марта", "день рождения"],
+        category: "цветы",
+        color: "красный",
+        thumbnail: "https://github.com/AnastasiaSyt/Flowers/blob/main/7/flowers_7.jpg",
+        images: [
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/7/flowers_7_1.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/7/flowers_7_2.jpg"
+        ]
+    },
+    {
+        id: 8,
+        title: "Гвоздика Атлетико",
+        description: "нежный цветок с тонким ароматом",
+        flower: "гвоздика",
+        price: 1,
+        rating: 4.88,
+        stock: 50,
+        size: 60,
+        country: "Турция",
+        occasions: ["14 февраля", "юбилей", "8 марта", "день рождения"],
+        category: "цветы",
+        color: "желтый",
+        thumbnail: "https://github.com/AnastasiaSyt/Flowers/blob/main/8/flowers_8.jpg",
+        images: [
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/8/flowers_8_1.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/8/flowers_8_2.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/8/flowers_8_3.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/8/flowers_8_4.jpg"
+        ]
+    },
+    {
+        id: 9,
+        title: "Гвоздика Капри",
+        description: "Гвоздика необыкновенного оранжевого цвета",
+        flower: "гвоздика",
+        price: 1,
+        rating: 4.55,
+        stock: 26,
+        size: 60,
+        country: "Турция",
+        occasions: ["день рождения", "юбилей", "8 марта", "выпускной"],
+        category: "цветы",
+        color: "оранжевый",
+        thumbnail: "https://github.com/AnastasiaSyt/Flowers/blob/main/9/flowers_9.jpg",
+        images: [
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/9/flowers_9_1.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/9/flowers_9_2.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/9/flowers_9_3.jpg"
+        ]
+    },
+    {
+        id: 10,
+        title: "Лаванда",
+        description: "Лаванда – это тот цветок, который пленит своей красотой миллионы людей по всему миру.",
+        flower: "лаванда",
+        price: 6,
+        rating: 4.73,
+        stock: 10,
+        size: 30,
+        country: "Франция",
+        occasions: ["свидание", "юбилей", "8 марта", "выпускной", "14 февраля", "день рождения", "свадьба"],
+        category: "цветы",
+        color: "красный",
+        thumbnail: "https://github.com/AnastasiaSyt/Flowers/blob/main/10/flowers_10.jpg",
+        images: [
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/10/flowers_10_1.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/10/flowers_10_2.jpg"
+        ]
+    },
+    {
+        id: 11,
+        title: "Букет из альстромерии",
+        description: "Букет из альстромерии разных цветов любого количества. Оформлен в крафт бумагу и перевязан лентой.",
+        flower: "альстромерия",
+        price: 20,
+        rating: 4.39,
+        stock: 6,
+        size: 60,
+        country: ["Колумбия", "Эквадор"],
+        occasions: ["свидание", "юбилей", "8 марта", "выпускной", "в школу"],
+        category: "букет",
+        color: "разные",
+        thumbnail: "https://github.com/AnastasiaSyt/Flowers/blob/main/11/flowers_11.jpg",
+        images: [
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/11/flowers_11_1.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/11/flowers_11_2.jpg"
+        ]
+    },
+    {
+        id: 12,
+        title: "Верона",
+        description: "Названный в честь города, где происходят события печально известного шекспировского «Ромео и Джульетты», «Верона» представляет собой живописную композицию с пышными розами и нежными кустовыми розами, украшенными ягодами зверобоя. Эта очаровательная и утонченная красота делает ее незабываемым подарком для того, кто вам дорог, будь то друг или романтический возлюбленный.",
+        flower: ["роза", "иглица", "ягоды зверобоя", "коккулюс"],
+        price: 68,
+        rating: 4.29,
+        stock: 3,
+        size: 50,
+        country: ["Колумбия", "Эквадор", "Турция"],
+        occasions: ["свидание", "юбилей", "8 марта", "выпускной", "в школу", "14 февраля"],
+        category: "букет",
+        color: "розовый",
+        thumbnail: "https://github.com/AnastasiaSyt/Flowers/blob/main/12/flowers_12.jpg",
+        images: [
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/12/flowers_12_1.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/12/flowers_12_2.jpg"
+        ]
+    },
+    {
+        id: 13,
+        title: "Двойной алый",
+        description: "Наша блестящая композиция отражает дух и радость сезона благодаря яркому ассортименту красных роз, анемонов и розовых ранункулюсов. Куда бы он ни пошел, ему суждено добавить в ваше пространство нотку праздничного настроения и хороших вестей.",
+        flower: ["роза", "анемон", "ранункулюс"],
+        price: 144,
+        rating: 4.79,
+        stock: 2,
+        size: 60,
+        country: ["Франция", "Эквадор"],
+        occasions: ["свидание", "юбилей", "14 февраля"],
+        category: "букет",
+        color: ["розовый", "желтый", "красный"],
+        thumbnail: "https://github.com/AnastasiaSyt/Flowers/blob/main/13/flowers_13.jpg",
+        images: [
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/13/flowers_13_1.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/13/flowers_13_2.jpg"
+        ]
+    },
+    {
+        id: 14,
+        title: "Эллингтон",
+        description: "Качающиеся стебли и яркие цвета создают в этом букете джазовый эффект. Этот букет представляет собой разноцветное наслаждение со сладкими и романтичными оттенками розового, фиолетового и персикового ранункулюса.",
+        flower: ["роза", "эвкалипт", "ранункулюс"],
+        price: 95,
+        rating: 4.73,
+        stock: 1,
+        size: 70,
+        country: ["Франция", "Эквадор", "Колумбия"],
+        occasions: ["свидание", "юбилей", "14 февраля", "день рождения"],
+        category: "букет",
+        color: ["розовый", "желтый", "белый"],
+        thumbnail: "https://github.com/AnastasiaSyt/Flowers/blob/main/14/flowers_14.jpg",
+        images: [
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/14/flowers_14_1.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/14/flowers_14_2.jpg"
+        ]
+    },
+
+
 ],
 total: 100,
 skip: 0,
