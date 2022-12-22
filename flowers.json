@@ -1,5 +1,4 @@
-{
-"products": [
+ [
     {
         "id": 1,
         "title": "Красная роза",
@@ -272,9 +271,331 @@
         "https://github.com/AnastasiaSyt/Flowers/blob/main/14/flowers_14_2.jpg"
         ]
     },
+    {
+        "id": 15,
+        "title": "Красный бум",
+        "description": "Начните новый год с этого роскошного букета анемонов, наполненного яркими красными и глубокими темно-синими оттенками. Этот букет  — потрясающий способ поднять настроение в этом сезоне.",
+        "flower": ["анемон"],
+        "price": 72,
+        "rating": 4.81,
+        "stock": 12,
+        "size": 60,
+        "country": ["Колумбия"],
+        "occasions": ["свидание", "юбилей", "14 февраля", "день рождения", "новый год"],
+        "category": "букет",
+        "color": ["красный"],
+        "thumbnail": "https://github.com/AnastasiaSyt/Flowers/blob/main/15/flowers_15.jpg",
+        "images": [
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/15/flowers_15_1.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/15/flowers_15_2.jpg"
+        ]
+    },
+    {
+        "id": 16,
+        "title": "Охапка пионов",
+        "description": "Пышные и полные жизни, не каждый день встретишь эти мягкие стебли. Этот яркий букет румяных тонов станет желанным дополнением любой комнаты. Пионы стали символом процветания, что делает их подходящим подарком для любого повода, от дня рождения до новоселья.",
+        "flower": ["пион"],
+        "price": 160,
+        "rating": 4.90,
+        "stock": 20,
+        "size": 70,
+        "country": ["Турция"],
+        "occasions": ["свидание", "юбилей", "14 февраля", "день рождения", "новый год", "8 марта", "свадьба"],
+        "category": "букет",
+        "color": ["розовый"],
+        "thumbnail": "https://github.com/AnastasiaSyt/Flowers/blob/main/16/flowers_16.jpg",
+        "images": [
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/16/flowers_16_1.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/16/flowers_16_2.jpg"
+        ]
+    },
+    {
+        "id": 17,
+        "title": "Рождественский илекс",
+        "description": "Этот праздничный алый букет наполнен сезонным очарованием. Он идеально подойдет для украшения прихожей и внесет нотку праздничного настроения в ваше пространство. Кто может устоять перед связкой ярко-красных зимних ягод?",
+        "flower": ["илекс"],
+        "price": 65,
+        "rating": 4.42,
+        "stock": 50,
+        "size": 50,
+        "country": ["Китай"],
+        "occasions": ["свидание", "юбилей", "14 февраля", "день рождения", "новый год", "рождество", "свадьба"],
+        "category": "букет",
+        "color": ["красный"],
+        "thumbnail": "https://github.com/AnastasiaSyt/Flowers/blob/main/17/flowers_17.jpg",
+        "images": [
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/17/flowers_17_1.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/17/flowers_17_2.jpg"
+        ]
+    },
+    {
+        "id": 18,
+        "title": "Двойное веселье",
+        "description": "Без сомнения, любой, кто взглянет в его сторону, будет очарован этим букетом. Этот прекрасный букет просто необходим, чтобы украсить дом в праздничный сезон и привнести в свой мир праздничное настроение. Красные розы, нежные белые лютики и пышные каллы цвета слоновой кости — все это радостно смешивается на свежем зеленом фоне.",
+        "flower": ["роза", "каллы", "иглица", "илекс"],
+        "price": 160,
+        "rating": 4.58,
+        "stock": 30,
+        "size": 60,
+        "country": ["Китай", "Колумбия", "Турция"],
+        "occasions": ["свидание", "юбилей", "14 февраля", "день рождения", "новый год", "рождество", "свадьба"],
+        "category": "букет",
+        "color": ["красный", "белый"],
+        "thumbnail": "https://github.com/AnastasiaSyt/Flowers/blob/main/18/flowers_18.jpg",
+        "images": [
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/18/flowers_18_1.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/18/flowers_18_2.jpg"
+        ]
+    },
+    {
+        "id": 19,
+        "title": "Сливочный крем",
+        "description": "Букет Сливочный крем - это то, из чего состоят сладкие мечты. Мы смешали нежную эустому и разнообразные ванильные розы, чтобы создать идеальный монохроматический образ. Усыпанный несколькими львиными зевами, этот букет подходит для любого торжества.",
+        "flower": ["роза", "эусто́ма", "львиный зев"],
+        "price": 117,
+        "rating": 4.38,
+        "stock": 15,
+        "size": 70,
+        "country": ["Нидерланды", "Колумбия", "Турция"],
+        "occasions": ["свидание", "юбилей", "14 февраля", "день рождения", "новый год", "свадьба", "выпускной"],
+        "category": "букет",
+        "color": ["белый"],
+        "thumbnail": "https://github.com/AnastasiaSyt/Flowers/blob/main/19/flowers_19.jpg",
+        "images": [
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/19/flowers_19_1.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/19/flowers_19_2.jpg"
+        ]
+    },
+    {
+        "id": 20,
+        "title": "Утонченный шик",
+        "description": "Сочетание нежно-розового и цвета слоновой кости со свежей зеленью представляет собой очаровательную композицию, идеально подходящую для того, чтобы добавить немного нежности в любое пространство.",
+        "flower": ["роза", "лютик", "лимониум", "эвкалипт", "самшит", "лаванда"],
+        "price": 122,
+        "rating": 4.68,
+        "stock": 11,
+        "size": 70,
+        "country": ["Нидерланды", "Китай", "Турция"],
+        "occasions": ["свидание", "14 февраля", "день рождения", "новый год", "свадьба"],
+        "category": "букет",
+        "color": ["белый", "розовый"],
+        "thumbnail": "https://github.com/AnastasiaSyt/Flowers/blob/main/20/flowers_20.jpg",
+        "images": [
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/20/flowers_20_1.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/20/flowers_20_2.jpg"
+        ]
+    },
+    {
+        "id": 21,
+        "title": "Каталина",
+        "description": "Сияющие тона драгоценных камней передают чудо и красоту Каталины. Этот поднимающий настроение букет — особый выбор для летней невесты. Он состоит из привлекательных стеблей королевской протеи с акцентом на дымчатую траву и эвкалипт. Эффект одновременно веселый и драматичный, и всегда праздничный и яркий.",
+        "flower": ["протея", "лептоспермум", "эвкалипт", "сафари сансет"],
+        "price": 104,
+        "rating": 4.62,
+        "stock": 4,
+        "size": 80,
+        "country": ["Нидерланды", "ЮАР"],
+        "occasions": ["свидание", "14 февраля", "день рождения", "новый год", "свадьба", "юбилей"],
+        "category": "букет",
+        "color": ["желтый", "зеленый", "розовый"],
+        "thumbnail": "https://github.com/AnastasiaSyt/Flowers/blob/main/21/flowers_21.jpg",
+        "images": [
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/21/flowers_21_1.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/21/flowers_21_2.jpg"
+        ]
+    },
+    {
+        "id": 22,
+        "title": "Шиповник",
+        "description": "Наполненный изысканностью, Шиповник представляет собой творческий набор из роз, скабиоз и астильб. От бледного и темного до светлого и пурпурного — здесь выделяется исследование контрастов. Этот капризный букет добавит элегантности любой комнате..",
+        "flower": ["роза", "левкадендрон", "илекс", "скабиоза", "каллы", "иглица", "эвкалипт"],
+        "price": 165,
+        "rating": 4.76,
+        "stock": 16,
+        "size": 70,
+        "country": ["Нидерланды", "Колумбия", "Эквадор"],
+        "occasions": ["день рождения", "новый год", "свадьба", "рождество"],
+        "category": "букет",
+        "color": ["красный", "зеленый", "розовый"],
+        "thumbnail": "https://github.com/AnastasiaSyt/Flowers/blob/main/22/flowers_22.jpg",
+        "images": [
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/22/flowers_22_1.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/22/flowers_22_2.jpg"
+        ]
+    },
+    {
+        "id": 23,
+        "title": "Осенний привет",
+        "description": "Это настоящий праздник лучших красок осени. Вы почувствуете, что находитесь наедине с природой, глядя на этот блестящий сухой букет, состоящий из краспедии, чертополоха, бордового эвкалипта, мини-пампасов и звездчатых цветов.",
+        "flower": ["краспедия", "чертополох", "пампасная трава", "эвкалипт", "звездчатый цвток"],
+        "price": 90,
+        "rating": 4.61,
+        "stock": 6,
+        "size": 80,
+        "country": ["Нидерланды", "Колумбия", "Эквадор"],
+        "occasions": ["новый год", "рождество", "в школу"],
+        "category": "букет",
+        "color": ["желтый", "оранжевый", "розовый"],
+        "thumbnail": "https://github.com/AnastasiaSyt/Flowers/blob/main/23/flowers_23.jpg",
+        "images": [
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/23/flowers_23_1.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/23/flowers_23_2.jpg"
+        ]
+    },
+    {
+        "id": 24,
+        "title": "Рождественский аромат",
+        "description": "Эта пышная композиция была создана в честь праздников — и с ее прекрасным сочетанием насыщенного красного, свежего зеленый и белого, он прекрасно символизирует праздничный дух.",
+        "flower": ["тюльпан", "папоротник"],
+        "price": 130,
+        "rating": 4.21,
+        "stock": 5,
+        "size": 60,
+        "country": ["Нидерланды", "Турция"],
+        "occasions": ["новый год", "рождество", "свидание", "день рождения"],
+        "category": "букет",
+        "color": ["белый", "красный", "зеленый"],
+        "thumbnail": "https://github.com/AnastasiaSyt/Flowers/blob/main/24/flowers_24.jpg",
+        "images": [
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/24/flowers_24_1.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/24/flowers_24_2.jpg"
+        ]
+    },
+    {
+        "id": 25,
+        "title": "Лилия",
+        "description": "Изысканная лилия насыщенного цвета",
+        "flower": ["лилия"],
+        "price": 8,
+        "rating": 4.81,
+        "stock": 55,
+        "size": 70,
+        "country": ["Нидерланды"],
+        "occasions": ["свидание", "день рождения", "8 марта", "14 февраля", "юбилей"],
+        "category": "цветы",
+        "color": ["розовый"],
+        "thumbnail": "https://github.com/AnastasiaSyt/Flowers/blob/main/25/flowers_25.jpg",
+        "images": [
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/25/flowers_25_1.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/25/flowers_25_2.jpg"
+        ]
+    },
+    {
+        "id": 26,
+        "title": "Эфиопия",
+        "description": "Яркие цвета и богатая текстура выделяют Эфиопию среди всего остального в комнате. Этот искусно составленный букет предлагает яркие оттенки красного и белого, создавая контрастный и изысканный эффект, который вдыхает новую жизнь в любое пространство. Его естественная красота неоспорима.",
+        "flower": ["пампасная трава", "иглица", "лагурус", "эвкалипт"],
+        "price": 115,
+        "rating": 4.36,
+        "stock": 12,
+        "size": 70,
+        "country": ["Эфиопия", "Италия"],
+        "occasions": ["новый год", "рождество", "в школу"],
+        "category": "букет",
+        "color": ["белый", "красный"],
+        "thumbnail": "https://github.com/AnastasiaSyt/Flowers/blob/main/26/flowers_26.jpg",
+        "images": [
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/26/flowers_26_1.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/26/flowers_26_2.jpg"
+        ]
+    },
+    {
+        "id": 27,
+        "title": "Морская волна",
+        "description": "Оттенки синего и белые пятнышки. Морская волна — триумфальное сочетание цветов и текстур. Окунитесь в волну, вдыхая чарующий запах спиралевидного эвкалипта.",
+        "flower": ["эусто́ма", "львиный зев", "дельфиниум", "эвкалипт", "гипсофила", "иглица"],
+        "price": 68,
+        "rating": 4.66,
+        "stock": 4,
+        "size": 60,
+        "country": ["Нидерланды", "Италия", "Эквадор"],
+        "occasions": ["новый год", "рождество", "в школу", "свадьба", "свидание"],
+        "category": "букет",
+        "color": ["белый", "зеленый", "синий"],
+        "thumbnail": "https://github.com/AnastasiaSyt/Flowers/blob/main/27/flowers_27.jpg",
+        "images": [
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/27/flowers_27_1.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/27/flowers_27_2.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/27/flowers_27_3.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/27/flowers_27_4.jpg"
+        ]
+    },
+    {
+        "id": 28,
+        "title": "Фейерверк",
+        "description": "Цвет, текстура и стиль играют ключевую роль в воплощении Фейерверка в жизнь. Этот сияющий букет, выбранный садоводом, легко добавит утонченность любому пространству.",
+        "flower": ["гортензия"],
+        "price": 70,
+        "rating": 4.86,
+        "stock": 56,
+        "size": 60,
+        "country": ["Нидерланды"],
+        "occasions": ["новый год", "рождество", "в школу", "свадьба", "свидание", "день рождения"],
+        "category": "букет",
+        "color": ["желтый", "фиолетовый"],
+        "thumbnail": "https://github.com/AnastasiaSyt/Flowers/blob/main/28/flowers_28.jpg",
+        "images": [
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/28/flowers_28_1.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/28/flowers_28_2.jpg"
+        ]
+    },
+    {
+        "id": 29,
+        "title": "Луна",
+        "description": "Перед богемным духом и неоспоримой красотой Луны трудно устоять. Оттенки синего в сочетании с цветом слоновой кости и лавандой делают его гармоничным выбором, который одновременно успокаивает и уравновешивает.",
+        "flower": ["роза", "скабиоза", "дельфиниум", "чертополох", "коккулус", "синеголовник"],
+        "price": 112,
+        "rating": 4.45,
+        "stock": 16,
+        "size": 70,
+        "country": ["Нидерланды", "Эквадор", "Италия"],
+        "occasions": ["новый год", "рождество", "в школу", "свадьба", "свидание", "день рождения", "юбилей", "8 марта", "14 февраля"],
+        "category": "букет",
+        "color": ["белый", "фиолетовый", "зеленый", "синий"],
+        "thumbnail": "https://github.com/AnastasiaSyt/Flowers/blob/main/29/flowers_29.jpg",
+        "images": [
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/29/flowers_29_1.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/29/flowers_29_2.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/29/flowers_29_3.jpg"
+        ]
+    },
+    {
+        "id": 30,
+        "title": "Синева",
+        "description": "Эта великолепная композиция раскрасит ваш мир восхитительно насыщенными стеблями дельфиниума, сплетающимися с усиками свежей контрастной зелени.",
+        "flower": ["дельфиниум", "синеголовник", "эвкалипт", "львиный зев"],
+        "price": 60,
+        "rating": 4.61,
+        "stock": 9,
+        "size": 60,
+        "country": ["Нидерланды"],
+        "occasions": ["новый год", "рождество", "свадьба", "свидание", "день рождения", "8 марта", "14 февраля", "выпускной"],
+        "category": "букет",
+        "color": ["белый", "зеленый", "синий"],
+        "thumbnail": "https://github.com/AnastasiaSyt/Flowers/blob/main/30/flowers_30.jpg",
+        "images": [
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/30/flowers_30_1.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/30/flowers_30_2.jpg"
+        ]
+    },
+    {
+        "id": 31,
+        "title": "Морелло",
+        "description": "Глубокая и загадочная вишня почти гипнотизирует своей красотой. Он также придает врожденную изысканность Морелло, пышному сочетанию яркой скабиозы и ранункулюса, продуманно уложенных со свежей зеленью для легкого контраста. Насыщенный вишневый оттенок, в честь которого она названа, привлекает внимание.",
+        "flower": ["роза", "лютик", "скабиоза", "гвоздика", "иглица"],
+        "price": 75,
+        "rating": 4.81,
+        "stock": 17,
+        "size": 80,
+        "country": ["Нидерланды", "Италия", "Турция"],
+        "occasions": ["новый год", "свидание", "день рождения", "8 марта", "14 февраля"],
+        "category": "букет",
+        "color": ["белый", "зеленый", "фиолетовый", "розовый"],
+        "thumbnail": "https://github.com/AnastasiaSyt/Flowers/blob/main/30/flowers_31.jpg",
+        "images": [
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/31/flowers_31_1.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/31/flowers_31_2.jpg"
+        ]
+    },
 
-],
-"total": 100,
-"skip": 0,
-"limit": 100
-}
+]
