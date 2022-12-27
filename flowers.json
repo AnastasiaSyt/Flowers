@@ -591,11 +591,181 @@
         "occasions": ["новый год", "свидание", "день рождения", "8 марта", "14 февраля"],
         "category": "букет",
         "color": ["белый", "зеленый", "фиолетовый", "розовый"],
-        "thumbnail": "https://github.com/AnastasiaSyt/Flowers/blob/main/30/flowers_31.jpg",
+        "thumbnail": "https://github.com/AnastasiaSyt/Flowers/blob/main/31/flowers_31.jpg",
         "images": [
         "https://github.com/AnastasiaSyt/Flowers/blob/main/31/flowers_31_1.jpg",
         "https://github.com/AnastasiaSyt/Flowers/blob/main/31/flowers_31_2.jpg"
         ]
     },
-
+    {
+        "id": 32,
+        "title": "Тропический цвет",
+        "description": "Добавьте ярких красок в свою жизнь с нашим букетом Тропический цвет. Наш собранный вручную цветочный дизайн — идеальный способ показать кому-то особенному, насколько вы заботитесь о нем. В букете представлены великолепные красные, розовые и апельсиновые оттенки, сочетание роз, гвоздик, альстромерий и зеленой листвы.",
+        "flower": ["роза", "альстромерия", "гвоздика"],
+        "price": 75,
+        "rating": 4.80,
+        "stock": 16,
+        "size": 70,
+        "country": ["Нидерланды", "Италия"],
+        "occasions": ["новый год", "свидание", "день рождения", "8 марта", "14 февраля", "юбилей"],
+        "category": "букет",
+        "color": ["красный", "оранжевый", "розовый"],
+        "thumbnail": "https://github.com/AnastasiaSyt/Flowers/blob/main/32/flowers_32.jpg",
+        "images": [
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/32/flowers_32_1.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/32/flowers_32_2.jpg"
+        ]
+    },
+    {
+        "id": 33,
+        "title": "Пурпурное настроение",
+        "description": "Насыщенные тона этой композиции добавят изюминку любому пространству. Пурпурное настроение содержит гортензию, розы, гвоздики и зелень премиум-класса, включая эвкалипт.",
+        "flower": ["роза", "гортензия", "гвоздика", "эвкалипт"],
+        "price": 69,
+        "rating": 4.73,
+        "stock": 9,
+        "size": 60,
+        "country": ["Нидерланды", "Турция"],
+        "occasions": ["новый год", "свидание", "день рождения", "8 марта", "14 февраля", "юбилей", "в школу"],
+        "category": "букет",
+        "color": ["фиолетовый", "розовый"],
+        "thumbnail": "https://github.com/AnastasiaSyt/Flowers/blob/main/33/flowers_33.jpg",
+        "images": [
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/33/flowers_33_1.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/33/flowers_33_2.jpg"
+        ]
+    },
+    {
+        "id": 34,
+        "title": "Белое чудо",
+        "description": "Этот букет настоящая зимняя сказка! Независимо от погоды, эта кремово-белая композиция принесет радость вашей семье и друзьям.",
+        "flower": ["роза", "орхидея", "хризантема", "иглица"],
+        "price": 73,
+        "rating": 4.31,
+        "stock": 6,
+        "size": 70,
+        "country": ["Нидерланды", "Турция"],
+        "occasions": ["новый год", "свидание", "день рождения", "рождество"],
+        "category": "букет",
+        "color": ["белый"],
+        "thumbnail": "https://github.com/AnastasiaSyt/Flowers/blob/main/34/flowers_34.jpg",
+        "images": [
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/34/flowers_34_1.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/34/flowers_34_2.jpg"
+        ]
+    },
+    {
+        "id": 35,
+        "title": "Блеск",
+        "description": "Невероятный букет в теплых тонах не оставит никого равнодушным",
+        "flower": ["анемон", "лютик", "хризантема"],
+        "price": 78,
+        "rating": 4.33,
+        "stock": 5,
+        "size": 60,
+        "country": ["Эквадор", "Италия"],
+        "occasions": ["свидание", "день рождения", "8 марта", "14 февраля"],
+        "category": "букет",
+        "color": ["красный", "оранжевый", "желтый"],
+        "thumbnail": "https://github.com/AnastasiaSyt/Flowers/blob/main/35/flowers_35.jpg",
+        "images": [
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/35/flowers_35_1.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/35/flowers_35_2.jpg"
+        ]
+    },
+    {
+        "id": 36,
+        "title": "Флавия",
+        "description": "Этот букет очень сладкий и нежный. Идеально подходит для юбилеев, благодарностей, извинений, дней рождения или любого романтического случая.",
+        "flower": ["роза", "лилия", "львиный зев", "альстромерия"],
+        "price": 55,
+        "rating": 4.83,
+        "stock": 4,
+        "size": 70,
+        "country": ["Эквадор", "Италия", "Турция"],
+        "occasions": ["свидание", "день рождения", "8 марта", "14 февраля", "юбилей"],
+        "category": "букет",
+        "color": ["красный", "розовый", "желтый", "белый", "зеленый"],
+        "thumbnail": "https://github.com/AnastasiaSyt/Flowers/blob/main/36/flowers_36.jpg",
+        "images": [
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/36/flowers_36_1.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/36/flowers_36_2.jpg"
+        ]
+    },
+    {
+        "id": 37,
+        "title": "Берна",
+        "description": "Красивый букет из разнообразных цветов для особых случаев. Уникальный букет, который удивит.",
+        "flower": ["роза", "гвоздика", "гербера", "гиперикум", "фрезия"],
+        "price": 55,
+        "rating": 4.84,
+        "stock": 14,
+        "size": 80,
+        "country": ["Колумбия", "ЮАР"],
+        "occasions": ["свидание", "день рождения", "8 марта", "14 февраля", "юбилей", "рождество", "новый год"],
+        "category": "букет",
+        "color": ["красный", "белый"],
+        "thumbnail": "https://github.com/AnastasiaSyt/Flowers/blob/main/37/flowers_37.jpg",
+        "images": [
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/37/flowers_37_1.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/37/flowers_37_2.jpg"
+        ]
+    },
+    {
+        "id": 38,
+        "title": "Верена",
+        "description": "Красивый букет из разнообразных цветов для особых случаев. Уникальный букет, который удивит.",
+        "flower": ["роза", "эусто́ма", "хризантема"],
+        "price": 77,
+        "rating": 4.64,
+        "stock": 10,
+        "size": 60,
+        "country": ["Нидерланды", "Италия"],
+        "occasions": ["свидание", "день рождения", "8 марта", "14 февраля", "юбилей", "в школу"],
+        "category": "композиция",
+        "color": ["желтый", "белый", "зеленый"],
+        "thumbnail": "https://github.com/AnastasiaSyt/Flowers/blob/main/38/flowers_38.jpg",
+        "images": [
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/38/flowers_38_1.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/38/flowers_38_2.jpg"
+        ]
+    },
+    {
+        "id": 39,
+        "title": "Спасибо",
+        "description": "Корзина разнообразных цветов на любое событие, подарок, юбилей, день рождения и т.д. Очень элегантно и красиво.",
+        "flower": ["роза", "гербера", "хризантема", "лилия"],
+        "price": 69,
+        "rating": 4.52,
+        "stock": 3,
+        "size": 60,
+        "country": ["Нидерланды", "Италия"],
+        "occasions": ["день рождения", "8 марта", "14 февраля", "юбилей", "в школу"],
+        "category": "композиция",
+        "color": ["розовый", "зеленый"],
+        "thumbnail": "https://github.com/AnastasiaSyt/Flowers/blob/main/39/flowers_39.jpg",
+        "images": [
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/39/flowers_39_1.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/39/flowers_39_2.jpg"
+        ]
+    },
+    {
+        "id": 40,
+        "title": "Сиена",
+        "description": "Молодость и свежесть характеризуют эту цветочную композицию. Букет наполнен светом и любовью. Идеально подходит для отправки добрых пожеланий, поздравлений и поддержки особенному человеку, которого вы хотите сделать счастливым.",
+        "flower": ["тюльпан", "лютик", "лилия"],
+        "price": 46,
+        "rating": 4.56,
+        "stock": 6,
+        "size": 60,
+        "country": ["Нидерланды", "Италия", "ЮАР"],
+        "occasions": ["день рождения", "8 марта", "14 февраля", "юбилей", "в школу", "выпускной"],
+        "category": "букет",
+        "color": ["розовый", "зеленый", "белый"],
+        "thumbnail": "https://github.com/AnastasiaSyt/Flowers/blob/main/40/flowers_40.jpg",
+        "images": [
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/40/flowers_40_1.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/40/flowers_40_2.jpg"
+        ]
+    },
 ]
