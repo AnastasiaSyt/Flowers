@@ -767,5 +767,23 @@
         "https://github.com/AnastasiaSyt/Flowers/blob/main/40/flowers_40_1.jpg",
         "https://github.com/AnastasiaSyt/Flowers/blob/main/40/flowers_40_2.jpg"
         ]
+    },    {
+        "id": 41,
+        "title": "Облачко",
+        "description": "Поднимите своего любимого человека на девятое облако, отправив этот красивый букет на день рождения или свидание. В состав Облачка входят розы, нежно-пастельная гортензия, астры Мацумото, розовая альстромерия, лавандовый лимониум и буплерум.",
+        "flower": ["роза", "гортензия", "астра", "альстромерия", "лимониум"],
+        "price": 99,
+        "rating": 4.64,
+        "stock": 16,
+        "size": 60,
+        "country": ["Нидерланды", "Италия", "ЮАР"],
+        "occasions": ["день рождения", "8 марта", "14 февраля", "юбилей", "свидание", "свадьба"],
+        "category": "букет",
+        "color": ["розовый", "зеленый", "белый", "фиолетовый"],
+        "thumbnail": "https://github.com/AnastasiaSyt/Flowers/blob/main/41/flowers_41.jpg",
+        "images": [
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/41/flowers_41_1.jpg",
+        "https://github.com/AnastasiaSyt/Flowers/blob/main/41/flowers_41_2.jpg"
+        ]
     },
 ]
