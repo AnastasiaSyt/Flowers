@@ -1,4 +1,5 @@
-[
+{ 
+    "flowers": [
     {
         "id": 0,
         "title": "Красная роза",
@@ -12,11 +13,11 @@
         "occasions": ["свидание", "юбилей", "8 марта", "выпускной"],
         "category": "цветы",
         "color": ["darkred"],
-        "thumbnail": "../../img/data_img/flowers_1.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_1.jpg",
         "images": [
-        "../../img/data_img/flowers_1_1.jpg",
-        "../../img/data_img/flowers_1_2.jpg",
-        "../../img/data_img/flowers_1_3.jpg"
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_1_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_1_2.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_1_3.jpg"
         ]
     },
     {
@@ -32,17 +33,17 @@
         "occasions": ["свидание", "юбилей", "8 марта", "выпускной", "день рождения"],
         "category": "цветы",
         "color": ["blue"],
-        "thumbnail": "../../img/data_img/flowers_2.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_2.jpg",
         "images": [
-        "../../img/data_img/flowers_2_1.jpg",
-        "../../img/data_img/flowers_2_2.jpg",
-        "../../img/data_img/flowers_2_3.jpg",
-        "../../img/data_img/flowers_2_4.jpg"
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_2_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_2_2.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_2_3.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_2_4.jpg"
         ]
     },
     {
         "id": 2,
-        "title": "Роза 'Джамилия'",
+        "title": "Роза Джамилия",
         "description": "Эти прекрасные нежно розовые розы, с прекрасным и ароматным бутоном – романтика, которая непременно подойдет для того чтобы порадовать любимого Вам человека",
         "flower": ["роза"],
         "price": 3,
@@ -53,10 +54,10 @@
         "occasions": ["свидание", "юбилей", "8 марта", "выпускной", "день рождения"],
         "category": "цветы",
         "color": ["pink"],
-        "thumbnail": "../../img/data_img/flowers_3.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_3.jpg",
         "images": [
-        "../../img/data_img/flowers_3_1.jpg",
-        "../../img/data_img/flowers_3_2.jpg"
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_3_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_3_2.jpg"
         ]
     },
     {
@@ -72,10 +73,10 @@
         "occasions": ["свидание", "юбилей", "8 марта", "выпускной", "14 февраля"],
         "category": "цветы",
         "color": ["pink"],
-        "thumbnail": "../../img/data_img/flowers_4.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_4.jpg",
         "images": [
-        "../../img/data_img/flowers_4_1.jpg",
-        "../../img/data_img/flowers_4_2.jpg"
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_4_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_4_2.jpg"
         ]
     },
     {
@@ -91,10 +92,10 @@
         "occasions": ["свидание", "юбилей", "8 марта", "выпускной", "свадьба", "14 февраля", "день рождения"],
         "category": "цветы",
         "color": ["white"],
-        "thumbnail": "../../img/data_img/flowers_5.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_5.jpg",
         "images": [
-        "../../img/data_img/flowers_5_1.jpg",
-        "../../img/data_img/flowers_5_2.jpg"
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_5_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_5_2.jpg"
         ]
     },
     {
@@ -110,10 +111,10 @@
         "occasions": ["выпускной", "свидание", "день рождения"],
         "category": "цветы",
         "color": ["pink"],
-        "thumbnail": "../../img/data_img/flowers_6.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_6.jpg",
         "images": [
-        "../../img/data_img/flowers_6_1.jpg",
-        "../../img/data_img/flowers_6_2.jpg"
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_6_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_6_2.jpg"
         ]
     },
     {
@@ -129,10 +130,10 @@
         "occasions": ["свидание", "14 февраля", "8 марта", "день рождения"],
         "category": "цветы",
         "color": ["darkred"],
-        "thumbnail": "../../img/data_img/flowers_7.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_7.jpg",
         "images": [
-        "../../img/data_img/flowers_7_1.jpg",
-        "../../img/data_img/flowers_7_2.jpg"
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_7_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_7_2.jpg"
         ]
     },
     {
@@ -148,12 +149,12 @@
         "occasions": ["14 февраля", "юбилей", "8 марта", "день рождения"],
         "category": "цветы",
         "color": ["yellow"],
-        "thumbnail": "../../img/data_img/flowers_8.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_8.jpg",
         "images": [
-        "../../img/data_img/flowers_8_1.jpg",
-        "../../img/data_img/flowers_8_2.jpg",
-        "../../img/data_img/flowers_8_3.jpg",
-        "../../img/data_img/flowers_8_4.jpg"
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_8_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_8_2.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_8_3.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_8_4.jpg"
         ]
     },
     {
@@ -169,11 +170,11 @@
         "occasions": ["день рождения", "юбилей", "8 марта", "выпускной"],
         "category": "цветы",
         "color": ["orange"],
-        "thumbnail": "../../img/data_img/flowers_9.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_9.jpg",
         "images": [
-        "../../img/data_img/flowers_9_1.jpg",
-        "../../img/data_img/flowers_9_2.jpg",
-        "../../img/data_img/flowers_9_3.jpg"
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_9_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_9_2.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_9_3.jpg"
         ]
     },
     {
@@ -189,10 +190,10 @@
         "occasions": ["свидание", "юбилей", "8 марта", "выпускной", "14 февраля", "день рождения", "свадьба"],
         "category": "цветы",
         "color": ["indigo"],
-        "thumbnail": "../../img/data_img/flowers_10.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_10.jpg",
         "images": [
-        "../../img/data_img/flowers_10_1.jpg",
-        "../../img/data_img/flowers_10_2.jpg"
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_10_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_10_2.jpg"
         ]
     },
     {
@@ -208,10 +209,10 @@
         "occasions": ["свидание", "юбилей", "8 марта", "выпускной", "в школу"],
         "category": "букеты",
         "color": ["pink", "orange", "white"],
-        "thumbnail": "../../img/data_img/flowers_11.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_11.jpg",
         "images": [
-        "../../img/data_img/flowers_11_1.jpg",
-        "../../img/data_img/flowers_11_2.jpg"
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_11_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_11_2.jpg"
         ]
     },
     {
@@ -227,10 +228,10 @@
         "occasions": ["свидание", "юбилей", "8 марта", "выпускной", "в школу", "14 февраля"],
         "category": "букеты",
         "color": ["pink"],
-        "thumbnail": "../../img/data_img/flowers_12.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_12.jpg",
         "images": [
-        "../../img/data_img/flowers_12_1.jpg",
-        "../../img/data_img/flowers_12_2.jpg"
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_12_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_12_2.jpg"
         ]
     },
     {
@@ -245,11 +246,11 @@
         "country": ["Франция", "Эквадор"],
         "occasions": ["свидание", "юбилей", "14 февраля"],
         "category": "букеты",
-        "color": ["darkred", "pink", "yellow", ],
-        "thumbnail": "../../img/data_img/flowers_13.jpg",
+        "color": ["darkred", "pink", "yellow"],
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_13.jpg",
         "images": [
-        "../../img/data_img/flowers_13_1.jpg",
-        "../../img/data_img/flowers_13_2.jpg"
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_13_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_13_2.jpg"
         ]
     },
     {
@@ -265,10 +266,10 @@
         "occasions": ["свидание", "юбилей", "14 февраля", "день рождения"],
         "category": "букеты",
         "color": ["pink", "yellow", "white"],
-        "thumbnail": "../../img/data_img/flowers_14.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_14.jpg",
         "images": [
-        "../../img/data_img/flowers_14_1.jpg",
-        "../../img/data_img/flowers_14_2.jpg"
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_14_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_14_2.jpg"
         ]
     },
     {
@@ -284,10 +285,10 @@
         "occasions": ["свидание", "юбилей", "14 февраля", "день рождения", "новый год"],
         "category": "букеты",
         "color": ["darkred"],
-        "thumbnail": "../../img/data_img/flowers_15.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_15.jpg",
         "images": [
-        "../../img/data_img/flowers_15_1.jpg",
-        "../../img/data_img/flowers_15_2.jpg"
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_15_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_15_2.jpg"
         ]
     },
     {
@@ -303,10 +304,10 @@
         "occasions": ["свидание", "юбилей", "14 февраля", "день рождения", "новый год", "8 марта", "свадьба"],
         "category": "букеты",
         "color": ["pink"],
-        "thumbnail": "../../img/data_img/flowers_16.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_16.jpg",
         "images": [
-        "../../img/data_img/flowers_16_1.jpg",
-        "../../img/data_img/flowers_16_2.jpg"
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_16_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_16_2.jpg"
         ]
     },
     {
@@ -322,10 +323,10 @@
         "occasions": ["свидание", "юбилей", "14 февраля", "день рождения", "новый год", "рождество", "свадьба"],
         "category": "букеты",
         "color": ["darkred"],
-        "thumbnail": "../../img/data_img/flowers_17.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_17.jpg",
         "images": [
-        "../../img/data_img/flowers_17_1.jpg",
-        "../../img/data_img/flowers_17_2.jpg"
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_17_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_17_2.jpg"
         ]
     },
     {
@@ -341,10 +342,10 @@
         "occasions": ["свидание", "юбилей", "14 февраля", "день рождения", "новый год", "рождество", "свадьба"],
         "category": "букеты",
         "color": ["darkred", "white"],
-        "thumbnail": "../../img/data_img/flowers_18.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_18.jpg",
         "images": [
-        "../../img/data_img/flowers_18_1.jpg",
-        "../../img/data_img/flowers_18_2.jpg"
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_18_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_18_2.jpg"
         ]
     },
     {
@@ -360,10 +361,10 @@
         "occasions": ["свидание", "юбилей", "14 февраля", "день рождения", "новый год", "свадьба", "выпускной"],
         "category": "букеты",
         "color": ["white"],
-        "thumbnail": "../../img/data_img/flowers_19.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_19.jpg",
         "images": [
-        "../../img/data_img/flowers_19_1.jpg",
-        "../../img/data_img/flowers_19_2.jpg"
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_19_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_19_2.jpg"
         ]
     },
     {
@@ -379,10 +380,10 @@
         "occasions": ["свидание", "14 февраля", "день рождения", "новый год", "свадьба"],
         "category": "букеты",
         "color": ["white", "pink"],
-        "thumbnail": "../../img/data_img/flowers_20.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_20.jpg",
         "images": [
-        "../../img/data_img/flowers_20_1.jpg",
-        "../../img/data_img/flowers_20_2.jpg"
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_20_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_20_2.jpg"
         ]
     },
     {
@@ -398,10 +399,10 @@
         "occasions": ["свидание", "14 февраля", "день рождения", "новый год", "свадьба", "юбилей"],
         "category": "букеты",
         "color": ["yellow", "lime", "pink"],
-        "thumbnail": "../../img/data_img/flowers_21.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_21.jpg",
         "images": [
-        "../../img/data_img/flowers_21_1.jpg",
-        "../../img/data_img/flowers_21_2.jpg"
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_21_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_21_2.jpg"
         ]
     },
     {
@@ -417,10 +418,10 @@
         "occasions": ["день рождения", "новый год", "свадьба", "рождество"],
         "category": "букеты",
         "color": ["darkred", "lime", "pink"],
-        "thumbnail": "../../img/data_img/flowers_22.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_22.jpg",
         "images": [
-        "../../img/data_img/flowers_22_1.jpg",
-        "../../img/data_img/flowers_22_2.jpg"
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_22_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_22_2.jpg"
         ]
     },
     {
@@ -436,10 +437,10 @@
         "occasions": ["новый год", "рождество", "в школу"],
         "category": "букеты",
         "color": ["yellow", "orange", "pink"],
-        "thumbnail": "../../img/data_img/flowers_23.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_23.jpg",
         "images": [
-        "../../img/data_img/flowers_23_1.jpg",
-        "../../img/data_img/flowers_23_2.jpg"
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_23_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_23_2.jpg"
         ]
     },
     {
@@ -455,10 +456,10 @@
         "occasions": ["новый год", "рождество", "свидание", "день рождения"],
         "category": "букеты",
         "color": ["white", "darkred", "lime"],
-        "thumbnail": "../../img/data_img/flowers_24.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_24.jpg",
         "images": [
-        "../../img/data_img/flowers_24_1.jpg",
-        "../../img/data_img/flowers_24_2.jpg"
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_24_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_24_2.jpg"
         ]
     },
     {
@@ -474,10 +475,10 @@
         "occasions": ["свидание", "день рождения", "8 марта", "14 февраля", "юбилей"],
         "category": "цветы",
         "color": ["pink"],
-        "thumbnail": "../../img/data_img/flowers_25.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_25.jpg",
         "images": [
-        "../../img/data_img/flowers_25_1.jpg",
-        "../../img/data_img/flowers_25_2.jpg"
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_25_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_25_2.jpg"
         ]
     },
     {
@@ -493,10 +494,10 @@
         "occasions": ["новый год", "рождество", "в школу"],
         "category": "букеты",
         "color": ["white", "darkred"],
-        "thumbnail": "../../img/data_img/flowers_26.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_26.jpg",
         "images": [
-        "../../img/data_img/flowers_26_1.jpg",
-        "../../img/data_img/flowers_26_2.jpg"
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_26_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_26_2.jpg"
         ]
     },
     {
@@ -512,12 +513,12 @@
         "occasions": ["новый год", "рождество", "в школу", "свадьба", "свидание"],
         "category": "букеты",
         "color": ["white", "lime", "blue"],
-        "thumbnail": "../../img/data_img/flowers_27.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_27.jpg",
         "images": [
-        "../../img/data_img/flowers_27_1.jpg",
-        "../../img/data_img/flowers_27_2.jpg",
-        "../../img/data_img/flowers_27_3.jpg",
-        "../../img/data_img/flowers_27_4.jpg"
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_27_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_27_2.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_27_3.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_27_4.jpg"
         ]
     },
     {
@@ -533,10 +534,10 @@
         "occasions": ["новый год", "рождество", "в школу", "свадьба", "свидание", "день рождения"],
         "category": "букеты",
         "color": ["yellow", "indigo"],
-        "thumbnail": "../../img/data_img/flowers_28.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_28.jpg",
         "images": [
-        "../../img/data_img/flowers_28_1.jpg",
-        "../../img/data_img/flowers_28_2.jpg"
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_28_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_28_2.jpg"
         ]
     },
     {
@@ -552,11 +553,11 @@
         "occasions": ["новый год", "рождество", "в школу", "свадьба", "свидание", "день рождения", "юбилей", "8 марта", "14 февраля"],
         "category": "букеты",
         "color": ["white", "indigo", "lime", "blue"],
-        "thumbnail": "../../img/data_img/flowers_29.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_29.jpg",
         "images": [
-        "../../img/data_img/flowers_29_1.jpg",
-        "../../img/data_img/flowers_29_2.jpg",
-        "../../img/data_img/flowers_29_3.jpg"
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_29_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_29_2.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_29_3.jpg"
         ]
     },
     {
@@ -572,10 +573,10 @@
         "occasions": ["новый год", "рождество", "свадьба", "свидание", "день рождения", "8 марта", "14 февраля", "выпускной"],
         "category": "букеты",
         "color": ["white", "lime", "blue"],
-        "thumbnail": "../../img/data_img/flowers_30.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_30.jpg",
         "images": [
-        "../../img/data_img/flowers_30_1.jpg",
-        "../../img/data_img/flowers_30_2.jpg"
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_30_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_30_2.jpg"
         ]
     },
     {
@@ -591,10 +592,10 @@
         "occasions": ["новый год", "свидание", "день рождения", "8 марта", "14 февраля"],
         "category": "букеты",
         "color": ["white", "lime", "indigo", "pink"],
-        "thumbnail": "../../img/data_img/flowers_31.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_31.jpg",
         "images": [
-        "../../img/data_img/flowers_31_1.jpg",
-        "../../img/data_img/flowers_31_2.jpg"
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_31_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_31_2.jpg"
         ]
     },
     {
@@ -610,10 +611,10 @@
         "occasions": ["новый год", "свидание", "день рождения", "8 марта", "14 февраля", "юбилей"],
         "category": "букеты",
         "color": ["darkred", "orange", "pink"],
-        "thumbnail": "../../img/data_img/flowers_32.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_32.jpg",
         "images": [
-        "../../img/data_img/flowers_32_1.jpg",
-        "../../img/data_img/flowers_32_2.jpg"
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_32_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_32_2.jpg"
         ]
     },
     {
@@ -629,10 +630,10 @@
         "occasions": ["новый год", "свидание", "день рождения", "8 марта", "14 февраля", "юбилей", "в школу"],
         "category": "букеты",
         "color": ["indigo", "pink"],
-        "thumbnail": "../../img/data_img/flowers_33.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_33.jpg",
         "images": [
-        "../../img/data_img/flowers_33_1.jpg",
-        "../../img/data_img/flowers_33_2.jpg"
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_33_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_33_2.jpg"
         ]
     },
     {
@@ -648,10 +649,10 @@
         "occasions": ["новый год", "свидание", "день рождения", "рождество"],
         "category": "букеты",
         "color": ["white"],
-        "thumbnail": "../../img/data_img/flowers_34.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_34.jpg",
         "images": [
-        "../../img/data_img/flowers_34_1.jpg",
-        "../../img/data_img/flowers_34_2.jpg"
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_34_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_34_2.jpg"
         ]
     },
     {
@@ -667,10 +668,10 @@
         "occasions": ["свидание", "день рождения", "8 марта", "14 февраля"],
         "category": "букеты",
         "color": ["darkred", "orange", "yellow"],
-        "thumbnail": "../../img/data_img/flowers_35.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_35.jpg",
         "images": [
-        "../../img/data_img/flowers_35_1.jpg",
-        "../../img/data_img/flowers_35_2.jpg"
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_35_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_35_2.jpg"
         ]
     },
     {
@@ -686,10 +687,10 @@
         "occasions": ["свидание", "день рождения", "8 марта", "14 февраля", "юбилей"],
         "category": "букеты",
         "color": ["darkred", "pink", "yellow", "white", "lime"],
-        "thumbnail": "../../img/data_img/flowers_36.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_36.jpg",
         "images": [
-        "../../img/data_img/flowers_36_1.jpg",
-        "../../img/data_img/flowers_36_2.jpg"
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_36_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_36_2.jpg"
         ]
     },
     {
@@ -705,10 +706,10 @@
         "occasions": ["свидание", "день рождения", "8 марта", "14 февраля", "юбилей", "рождество", "новый год"],
         "category": "букеты",
         "color": ["darkred", "white"],
-        "thumbnail": "../../img/data_img/flowers_37.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_37.jpg",
         "images": [
-        "../../img/data_img/flowers_37_1.jpg",
-        "../../img/data_img/flowers_37_2.jpg"
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_37_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_37_2.jpg"
         ]
     },
     {
@@ -724,10 +725,10 @@
         "occasions": ["свидание", "день рождения", "8 марта", "14 февраля", "юбилей", "в школу"],
         "category": "композиция",
         "color": ["yellow", "white", "lime"],
-        "thumbnail": "../../img/data_img/flowers_38.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_38.jpg",
         "images": [
-        "../../img/data_img/flowers_38_1.jpg",
-        "../../img/data_img/flowers_38_2.jpg"
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_38_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_38_2.jpg"
         ]
     },
     {
@@ -743,10 +744,10 @@
         "occasions": ["день рождения", "8 марта", "14 февраля", "юбилей", "в школу"],
         "category": "композиция",
         "color": ["pink", "lime"],
-        "thumbnail": "../../img/data_img/flowers_39.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_39.jpg",
         "images": [
-        "../../img/data_img/flowers_39_1.jpg",
-        "../../img/data_img/flowers_39_2.jpg"
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_39_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_39_2.jpg"
         ]
     },
     {
@@ -762,10 +763,10 @@
         "occasions": ["день рождения", "8 марта", "14 февраля", "юбилей", "в школу", "выпускной"],
         "category": "букеты",
         "color": ["pink", "lime", "white"],
-        "thumbnail": "../../img/data_img/flowers_40.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_40.jpg",
         "images": [
-        "../../img/data_img/flowers_40_1.jpg",
-        "../../img/data_img/flowers_40_2.jpg"
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_40_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_40_2.jpg"
         ]
     },
     {
@@ -781,11 +782,11 @@
         "occasions": ["свидание", "14 февраля", "8 марта"],
         "category": "цветы",
         "color": ["black"],
-        "thumbnail": "../../img/data_img/flowers_41_1.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_41_1.jpg",
         "images": [
-        "../../img/data_img/flowers_41_1.jpg",
-        "../../img/data_img/flowers_41_2.jpg",
-        "../../img/data_img/flowers_41_3.jpg"
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_41_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_41_2.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_41_3.jpg"
         ]
     },
     {
@@ -801,10 +802,10 @@
         "occasions": ["день рождения"],
         "category": "композиция",
         "color": ["darkred", "white"],
-        "thumbnail": "../../img/data_img/flowers_42_1.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_42_1.jpg",
         "images": [
-        "../../img/data_img/flowers_42_1.jpg",
-        "../../img/data_img/flowers_42_2.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_42_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_42_2.jpg"
         ]
     },
     {
@@ -817,14 +818,14 @@
         "stock": 90,
         "size": 60,
         "country": ["Нидерланды"],
-        "occasions": ["свидание", "день рождения", "8 марта", 'юбилей', '14 февраля'],
+        "occasions": ["свидание", "день рождения", "8 марта", "юбилей", "14 февраля"],
         "category": "букеты",
         "color": ["white"],
-        "thumbnail": "../../img/data_img/flowers_43_1.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_43_1.jpg",
         "images": [
-        "../../img/data_img/flowers_43_1.jpg",
-        "../../img/data_img/flowers_43_2.jpg",
-        "../../img/data_img/flowers_43_3.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_43_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_43_2.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_43_3.jpg"
         ]
     },
     {
@@ -837,13 +838,13 @@
         "stock": 41,
         "size": 50,
         "country": ["Россия", "Нидерланды"],
-        "occasions": ["свидание","8 марта", '14 февраля'],
+        "occasions": ["свидание","8 марта", "14 февраля"],
         "category": "букеты",
         "color": ["white"],
-        "thumbnail": "../../img/data_img/flowers_44_1.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_44_1.jpg",
         "images": [
-        "../../img/data_img/flowers_44_1.jpg",
-        "../../img/data_img/flowers_44_2.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_44_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_44_2.jpg"
         ]
     },
     {
@@ -856,13 +857,13 @@
         "stock": 112,
         "size": 60,
         "country": ["Колумбия"],
-        "occasions": ["свидание", "8 марта", '14 февраля', 'день рождения', 'выпускной'],
+        "occasions": ["свидание", "8 марта", "14 февраля", "день рождения", "выпускной"],
         "category": "цветы",
         "color": ["pink"],
-        "thumbnail": "../../img/data_img/flowers_45_1.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_45_1.jpg",
         "images": [
-        "../../img/data_img/flowers_45_1.jpg",
-        "../../img/data_img/flowers_45_2.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_45_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_45_2.jpg"
         ]
     },
     {
@@ -875,12 +876,12 @@
         "stock": 115,
         "size": 60,
         "country": ["Колумбия"],
-        "occasions": ["свидание", "8 марта", '14 февраля', 'день рождения', 'выпускной'],
+        "occasions": ["свидание", "8 марта", "14 февраля", "день рождения", "выпускной"],
         "category": "цветы",
         "color": ["darkred"],
-        "thumbnail": "../../img/data_img/flowers_46_1.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_46_1.jpg",
         "images": [
-        "../../img/data_img/flowers_46_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_46_1.jpg"
         ]
     },
     {
@@ -893,12 +894,12 @@
         "stock": 115,
         "size": 60,
         "country": ["Россия"],
-        "occasions": ['день рождения'],
+        "occasions": ["день рождения"],
         "category": "цветы",
         "color": ["indigo"],
-        "thumbnail": "../../img/data_img/flowers_47_1.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_47_1.jpg",
         "images": [
-        "../../img/data_img/flowers_47_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_47_1.jpg"
         ]
     },
     {
@@ -911,12 +912,12 @@
         "stock": 15,
         "size": 20,
         "country": ["Нидерланды"],
-        "occasions": ['8 марта', '14 февраля', 'свидание'],
+        "occasions": ["8 марта", "14 февраля", "свидание"],
         "category": "букеты",
         "color": ["darkred"],
-        "thumbnail": "../../img/data_img/flowers_48_1.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_48_1.jpg",
         "images": [
-        "../../img/data_img/flowers_48_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_48_1.jpg"
         ]
     },
     {
@@ -929,31 +930,31 @@
         "stock": 25,
         "size": 30,
         "country": ["Австралия"],
-        "occasions": ['день рождения', 'юбилей'],
+        "occasions": ["день рождения", "юбилей"],
         "category": "композиция",
         "color": ["white"],
-        "thumbnail": "../../img/data_img/flowers_49_1.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_49_1.jpg",
         "images": [
-        "../../img/data_img/flowers_49_1.jpg",
-        "../../img/data_img/flowers_49_2.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_49_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_49_2.jpg"
         ]
     },
     {
         "id": 49,
         "title": "Яркость",
         "description": "Композиция из различных ярких цветов поднимет настроение каждому, кто его увидит!",
-        "flower": ["роза", 'хризантема', 'георгина'],
+        "flower": ["роза", "хризантема", "георгина"],
         "price": 70,
         "rating": 4.11,
         "stock": 10,
         "size": 25,
         "country": ["Китай", "Нидерланды", "Колумбия"],
-        "occasions": ["свидание", "8 марта", '14 февраля', 'день рождения', 'юбилей'],
+        "occasions": ["свидание", "8 марта", "14 февраля", "день рождения", "юбилей"],
         "category": "композиция",
         "color": ["yellow", "darkred", "orange"],
-        "thumbnail": "../../img/data_img/flowers_50_1.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_50_1.jpg",
         "images": [
-        "../../img/data_img/flowers_50_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_50_1.jpg"
         ]
     },
     {
@@ -966,13 +967,13 @@
         "stock": 40,
         "size": 70,
         "country": ["Беларусь"],
-        "occasions": ["свидание", "8 марта", '14 февраля', 'день рождения', 'юбилей'],
+        "occasions": ["свидание", "8 марта", "14 февраля", "день рождения", "юбилей"],
         "category": "букеты",
         "color": ["blue"],
-        "thumbnail": "../../img/data_img/flowers_51_1.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_51_1.jpg",
         "images": [
-        "../../img/data_img/flowers_51_1.jpg",
-        "../../img/data_img/flowers_51_2.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_51_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_51_2.jpg"
         ]
     },
     {
@@ -988,11 +989,11 @@
         "occasions": ["свидание"],
         "category": "букеты",
         "color": ["white"],
-        "thumbnail": "../../img/data_img/flowers_52_1.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_52_1.jpg",
         "images": [
-        "../../img/data_img/flowers_52_1.jpg",
-        "../../img/data_img/flowers_52_2.jpg",
-        "../../img/data_img/flowers_52_3.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_52_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_52_2.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_52_3.jpg"
         ]
     },
     {
@@ -1008,11 +1009,13 @@
         "occasions": ["свидание"],
         "category": "цветы",
         "color": ["white"],
-        "thumbnail": "../../img/data_img/flowers_53_1.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_53_1.jpg",
         "images": [
-        "../../img/data_img/flowers_53_1.jpg",
-        "../../img/data_img/flowers_53_2.jpg",
-        "../../img/data_img/flowers_53_3.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_53_1.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_53_2.jpg",
+        "https://raw.githubusercontent.com/AnastasiaSyt/Flowers/main/images/flowers_53_3.jpg"
         ]
-    },
+    }
 ]
+    
+}
